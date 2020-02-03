@@ -1,0 +1,45 @@
+
+‡"squid:ClassVariableVisibilityCheck"YMake template_path a static final constant or non-public and provide accessors if needed.(•èÚÒ
+‹"squid:ClassVariableVisibilityCheck"]Make service_save_path a static final constant or non-public and provide accessors if needed.(¿„­
+rsquid:S3008"[Rename this field "mapper_save_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÖ§˜
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(•èÚÒ
+Š"squid:ClassVariableVisibilityCheck"\Make mapper_save_path a static final constant or non-public and provide accessors if needed.(µÖ§˜
+"squid:ClassVariableVisibilityCheck"bMake class_mapper_save_path a static final constant or non-public and provide accessors if needed.(äÜ”­
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(Ò—ıé
+Ssquid:S1444"<Make this "public static class_mapper_save_path" field final(äÜ”­
+}squid:S3008"aRename this field "service_impl_save_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛİŠˆıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"`Make controller_save_path a static final constant or non-public and provide accessors if needed.(ÒÙœã
+Nsquid:S1444"7Make this "public static service_save_path" field final(¿„­
+psquid:S3008
+"ZRename this field "model_save_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÊ¹"
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(‘ãŠ’üÿÿÿÿ
+Xsquid:S1444"<Make this "public static service_impl_save_path" field final(ÛİŠˆıÿÿÿÿ
+Jsquid:S1444"3Make this "public static sql_save_path" field final(Ò—ıé
+‡"squid:ClassVariableVisibilityCheck"YMake sql_save_path a static final constant or non-public and provide accessors if needed.(Ò—ıé
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÛİŠˆıÿÿÿÿ
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(äÜ”­
+xsquid:S3008"aRename this field "class_mapper_save_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÜ”­
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(µÖ§˜
+osquid:S3008"XRename this field "sql_save_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò—ıé
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÒÙœã
+Œ"squid:ClassVariableVisibilityCheck"YMake jsp_save_path a static final constant or non-public and provide accessors if needed.(‘ãŠ’üÿÿÿÿ
+ssquid:S3008"\Rename this field "service_save_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿„­
+Jsquid:S1444"3Make this "public static template_path" field final(•èÚÒ
+Osquid:S1444"3Make this "public static jsp_save_path" field final(‘ãŠ’üÿÿÿÿ
+Ksquid:S1444
+"5Make this "public static model_save_path" field final(ïÊ¹"
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯™Ás
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(¿„­
+ˆ"squid:ClassVariableVisibilityCheck
+"[Make model_save_path a static final constant or non-public and provide accessors if needed.(ïÊ¹"
+Msquid:S1444"6Make this "public static mapper_save_path" field final(µÖ§˜
+tsquid:S3008"XRename this field "jsp_save_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ãŠ’üÿÿÿÿ
+osquid:S3008"XRename this field "template_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•èÚÒ
+Wsquid:S1075
+"ARefactor your code to get this URI from a customizable parameter.(ïÊ¹"
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€è·«
+•"squid:ClassVariableVisibilityCheck"bMake service_impl_save_path a static final constant or non-public and provide accessors if needed.(ÛİŠˆıÿÿÿÿ
+Qsquid:S1444":Make this "public static controller_save_path" field final(ÒÙœã
+vsquid:S3008"_Rename this field "controller_save_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÙœã
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®«²Ú

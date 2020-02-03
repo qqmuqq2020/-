@@ -1,0 +1,6 @@
+cn\qg\service\QgGoodsService.class
+cn\qg\service\QgOrderService.class
+cn\qg\service\QgTradeService.class
+cn\qg\service\QgGoodsMessageService.class
+cn\qg\service\QgGoodsTempStockService.class
+cn\qg\service\QgUserService.class

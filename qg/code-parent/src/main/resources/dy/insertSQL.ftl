@@ -1,0 +1,19 @@
+INSERT INTO `education`.`dy_admin_module` (
+    `name`,
+    `url`,
+    `parent`,
+    `createdTime`,
+    `updatedTime`,
+    `status`,
+    `type`
+)
+VALUES
+(
+    '${table.comment}',
+    '/${lowerClassName}/${lowerClassName}List.jsp',
+    '3',
+    NULL,
+    NULL,
+    '0',
+    '1'
+);
